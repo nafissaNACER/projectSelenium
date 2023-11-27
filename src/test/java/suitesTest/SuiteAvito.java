@@ -59,5 +59,7 @@ public class SuiteAvito extends SetUpTearDown {
         //9.	Vérifier que checkBox est toujours coché
         assertTrue(comptePage.verifierCheckBox());
 
+        System.out.println("demo git");
+
     }
 }
