@@ -1,0 +1,7 @@
+configuration\ConfigFileReader.class
+pages\ComptePage.class
+pages\LoginPage.class
+configuration\SetUpTearDown.class
+utils\BaseTools.class
+pages\AccueilPage.class
+suitesTest\SuiteAvito.class
